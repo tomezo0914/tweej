@@ -16,7 +16,7 @@ import tweej.api.oauth.TjOAuth;
 import tweej.http.TjHttpCallback;
 
 /**
- * Twiiter API をコールするクラス.
+ * Twiiter API Class.
  * @author tome
  *
  */
